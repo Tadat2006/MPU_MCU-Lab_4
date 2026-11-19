@@ -1,0 +1,9 @@
+scheduler.c:20:13:free_node	16	static
+scheduler.c:29:13:insert_node	24	static
+scheduler.c:50:6:SCH_Init	24	static,ignoring_inline_asm
+scheduler.c:67:6:SCH_Update	4	static
+scheduler.c:75:10:SCH_Add_Task	48	static,ignoring_inline_asm
+scheduler.c:104:9:SCH_Delete_Task	40	static,ignoring_inline_asm
+scheduler.c:142:6:SCH_Dispatch_Tasks	112	static,ignoring_inline_asm
+scheduler.c:174:10:SCH_get_time	4	static
+scheduler.c:180:10:get_time	8	static
